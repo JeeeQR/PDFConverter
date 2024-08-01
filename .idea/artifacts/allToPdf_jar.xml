@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="allToPdf:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/allToPdf_jar</output-path>
+    <root id="archive" name="allToPdf.jar">
+      <element id="module-output" name="allToPdf" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/aspose-cells.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/aspose.slides-19.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/aspose-words.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
